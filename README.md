@@ -4,9 +4,8 @@
 ## :two: 데이터 전처리
 TOPIC | SKELETON | CODE | YOUTUBE | PPT
 ---|---|---|---|---
-**2.1 데이터 탐색(EDA)** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.2 결측치 처리** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.3 이상치 처리** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.2 결측치 처리** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_2_na_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_2_na_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.3 이상치 처리** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_3_outlier_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_3_outlier_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
 **2.4 데이터 통합** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
 **2.5 데이터 변환** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
 **2.6 데이터 축소** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
