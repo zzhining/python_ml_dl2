@@ -6,11 +6,11 @@ TOPIC | SKELETON | CODE | YOUTUBE | PPT
 ---|---|---|---|---
 **2.2 결측치 처리** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_2_na_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_2_na_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
 **2.3 이상치 처리** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_3_outlier_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_3_outlier_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.4 데이터 통합** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.5 데이터 변환** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.6 데이터 축소** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.7 데이터 분할** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**2.8 데이터 전처리 연습문제** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | -
+**2.4 데이터 통합** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_4_merge_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_4_merge_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.5 데이터 변환** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_5_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_5_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.6 데이터 축소** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_6_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_6_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.7 데이터 분할** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_7_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_7_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**2.8 데이터 전처리 연습문제** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/2_8_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/2_8_exercise.ipynb) | [:movie_camera:설명영상]() | -
 
 ## :three: 지도학습
 TOPIC | SKELETON | CODE | YOUTUBE | PPT
