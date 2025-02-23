@@ -15,13 +15,13 @@ TOPIC | SKELETON | CODE | YOUTUBE | PPT
 ## :three: 지도학습
 TOPIC | SKELETON | CODE | YOUTUBE | PPT
 ---|---|---|---|---
-**3.1 Decision Tree** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
-**3.2 Ensemble** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**3.3 KNN** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**3.4 SVM** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**3.5 Logistic Regression** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**3.6 Linear Regression** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
-**3.7 평가지표** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.1 Decision Tree** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_1_decisiontree_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_1_decisiontree_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
+**3.2 Ensemble** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_2_ensemble_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_2_ensemble_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.3 KNN** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_3_knn_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_3_knn_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.4 SVM** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_4_svm_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_3_knn_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.5 Logistic Regression** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_5_logistic_regression_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_5_logistic_regression_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.6 Linear Regression** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_6_linear_regression_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_6_linear_regression_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
+**3.7 평가지표** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/3_7_evaluation_exercise_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/3_7_evaluation_exercise.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]() 
 
 
 
