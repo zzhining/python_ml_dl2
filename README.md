@@ -53,6 +53,6 @@ TOPIC | SKELETON | CODE | YOUTUBE
 ## :seven: ~ :nine:딥러닝
 TOPIC | SKELETON | CODE | YOUTUBE | PPT
 ---|---|---|---|---
-**7.2 인공신경망 구성하기** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
-**8.2 CNN** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
+**7.2 인공신경망 구성하기** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/7_2_concrete_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/7_2_concrete.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
+**8.2 CNN** |[:radio_button:연습코드](https://github.com/zzhining/python_ml_dl2/blob/main/8_1_mnist_classifier_skeleton.ipynb) | [:black_circle:정답코드](https://github.com/zzhining/python_ml_dl2/blob/main/answer/8_1_mnist_classifier.ipynb) | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
 **9.1 RNN** |[:radio_button:연습코드]() | [:black_circle:정답코드]() | [:movie_camera:설명영상]() | [:page_facing_up:강의자료]()
