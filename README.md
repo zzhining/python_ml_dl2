@@ -1,5 +1,7 @@
-# <파이썬으로 시작하는 머신러닝+딥러닝>
-개정판 자료
+# <파이썬으로 시작하는 머신러닝+딥러닝> 개정판 자료
+
+<img width="444" height="600" alt="image" src="https://github.com/user-attachments/assets/388d2ae6-8b70-49de-bf8f-da83e50dabe0" />
+
 
 ## :two: 데이터 전처리
 TOPIC | SKELETON | CODE | YOUTUBE | PPT
